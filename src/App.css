@@ -1,0 +1,26 @@
+.form-input{
+  display: flex;
+  flex-direction: column;
+}
+.first-div{
+  display: flex;
+  justify-content: space-between;
+}
+.task-two {
+  font-size: 25px;
+    cursor: pointer;
+    background: #07c707;
+    color: white;
+    padding: 5px 12px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+
+
+
+.chart{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
